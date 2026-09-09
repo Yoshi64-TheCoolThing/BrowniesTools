@@ -5,4 +5,4 @@ Requirements:
 
 NET. framework 4.7.2
 
-Note: Only Install NET. Framework 4.7.2 If A Error Pops Up.
+Note: Only Install NET. Framework 4.7.2 If An Error Pops Up.
